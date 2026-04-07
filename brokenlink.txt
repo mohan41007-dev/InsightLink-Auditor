@@ -1,0 +1,26 @@
+============================================================
+WEBSITE HEALTH AUDIT: https://www.fefundinfo.com/
+Report Generated: 2026-04-07 07:51:37
+============================================================
+
+--- [ SECTION: BROKEN LINKS ] ---
+❌ Status 403 | Link: https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/?utm_source=banner_cb&utm_medium=referral&utm_content=v2
+❌ Status 403 | Link: https://www.cookiebot.com/goto/privacy-policy/
+❌ Status 429 | Link: https://www.linkedin.com/legal/privacy-policy
+⚠️ Connection Failed | Link: http://www.casalemedia.com/
+❌ Status 429 | Link: https://www.linkedin.com/legal/privacy-policy
+❌ Status 403 | Link: https://www.magnite.com/legal/advertising-technology-privacy-policy/
+❌ Status 403 | Link: https://www.cookiebot.com/
+❌ Status 404 | Link: https://fefundinfo.com/events/bcworldtour2025
+❌ Status 405 | Link: https://www.feanalytics.com/?__hstc=219768454.7231d474773ed6676d21027831166256.1709044285675.1715767123104.1715867940971.104&__hssc=219768454.4.1715867940971&__hsfp=4082167541
+❌ Status 405 | Link: https://cashcalc.co.uk/login?_gl=1*teijpv*_ga*MjEyNzYzODg5Ny4xNzE1MTU0MjUx*_ga_87R9KT4LFG*MTcxNTg2Nzk0MC4xMS4xLjE3MTU4NjgxMDYuMjMuMC4w*_ga_WL793ZHSFC*MTcxNTg2Nzk0MC4yMy4xLjE3MTU4NjgxMDYuMjMuMC4w*_ga_KT7JRD1S6Q*MTcxNTg2Nzk0MC4yMy4xLjE3MTU4NjgxMDYuMjMuMC4w
+❌ Status 405 | Link: https://new.adviserasset.org.uk/Account/Login.aspx?ReturnUrl=%2fSubscribers%2fWhatDoYouWantToDo.aspx
+❌ Status 405 | Link: https://www.feanalytics.com/?__hstc=219768454.7231d474773ed6676d21027831166256.1709044285675.1715767123104.1715867940971.104&__hssc=219768454.4.1715867940971&__hsfp=4082167541
+❌ Status 405 | Link: https://cashcalc.co.uk/login?_gl=1*teijpv*_ga*MjEyNzYzODg5Ny4xNzE1MTU0MjUx*_ga_87R9KT4LFG*MTcxNTg2Nzk0MC4xMS4xLjE3MTU4NjgxMDYuMjMuMC4w*_ga_WL793ZHSFC*MTcxNTg2Nzk0MC4yMy4xLjE3MTU4NjgxMDYuMjMuMC4w*_ga_KT7JRD1S6Q*MTcxNTg2Nzk0MC4yMy4xLjE3MTU4NjgxMDYuMjMuMC4w
+❌ Status 405 | Link: https://new.adviserasset.org.uk/Account/Login.aspx?ReturnUrl=%2fSubscribers%2fWhatDoYouWantToDo.aspx
+❌ Status 404 | Link: https://fefundinfo.com/events/bcworldtour2025
+❌ Status 999 | Link: https://www.linkedin.com/company/fefundinfo/
+❌ Status 403 | Link: https://funds360.fefundinfo.com/a-propos/company/
+
+--- [ SECTION: BROKEN IMAGES ] ---
+❌ Status 451 | Image: https://id.rlcdn.com/464526.gif
